@@ -1,3 +1,5 @@
+![Logo](public/ctrlaltfun.png)
+
 # ctrl + alt + fun
 
 Find a new way to shorten urls
