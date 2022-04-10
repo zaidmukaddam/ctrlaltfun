@@ -119,7 +119,7 @@ export default function Home() {
       <main className="bg-gray-200 absolute w-full h-full flex flex-col items-center justify-center space-y-1">
         <Toaster position="top-center" reverseOrder={true} />
 
-        <header className="text-center justify-center content-center">
+        <header className="text-center justify-center content-center p-2">
           <motion.h3
             initial={{ opacity: 0, y: -20 }}
             animate={{ opacity: 1, y: 0 }}
