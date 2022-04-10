@@ -103,7 +103,7 @@ export default function Home() {
           description: "Ctrl + Alt + Fun, find a new way to shorten urls",
           images: [
             {
-              url: "/ctrlaltfun.png",
+              url: "https://ctrlalt.fun/ctrlaltfun.png",
               width: 1200,
               height: 630,
             },
@@ -152,7 +152,7 @@ export default function Home() {
               htmlFor="website"
               className="block text-sm font-medium text-gray-700"
             >
-              Ctrl + alt + f
+              Ctrl + alt + fun
             </label>
             <div className="mt-1 relative rounded-md shadow-sm">
               <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
