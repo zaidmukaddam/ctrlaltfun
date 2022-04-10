@@ -104,8 +104,8 @@ export default function Home() {
           images: [
             {
               url: "/ctrlaltfun.png",
-              width: 400,
-              height: 200,
+              width: 1200,
+              height: 630,
             },
           ],
         }}
