@@ -75,4 +75,6 @@ export const links = [
   "v.tinkertools.design",
   "v.zaidmukaddam.biz",
   "v.linkto.study",
+  "v.boringstonks.live",
+  "v.zaidmkz.xyz",
 ];

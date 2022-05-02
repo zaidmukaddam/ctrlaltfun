@@ -91,7 +91,7 @@ export default function Home() {
     <>
       <Head>
         <link rel="icon" href="/favicon.ico" />
-        <meta name="theme-color" content="#2f3136" />
+        <meta name="theme-color" content="#E5E7EB" />
       </Head>
       <NextSeo
         title="Ctrl + Alt + Fun"
